@@ -8,5 +8,6 @@
       passion lies in solving complex problems and developing innovative
       solutions in the field of software development and web technologies.
     </p>
+    <p>This is the new paragraph.</p>
 </body>
 </html>
